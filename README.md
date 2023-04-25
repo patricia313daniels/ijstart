@@ -1,5 +1,7 @@
 # ijstart
-
+<div class='buttoncss' style='text-align: center;'>
+<a href='https://ij.setupcanon-ijstart.com/webmanual/'><img alt='ij.start.canon, ij.start.canon setup, ij start printer setup' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiN7UKxgKm34snxNetvB3y05BBSJfWtctH8s63OJBdkWScnbHZ7mqNUT22Tr0nSoU-rVluY-dlfkYhtPgo9JvwrZWBchlqjSVEhYJHy0QCqWlaeScyUbbRKKUE3U46AKCPD1oZnURpSTDwPCegmT-m4YGnlzImtDvMSa_Dr0bpFQah1N-q9yfsLYs3AOA/s320/get%20started%20button.png'/></a>
+</div>
 Connecting a printer to a device isn’t a big deal in this new world of technology. And the Canon printer makes it easier with its innovative features and intuitive interface. This blog emphasizes the common issues while connecting a printer to a computer. You must know the right method to connect your canon printer. Despite being able to connect to the computer, people face many issues while setting up a stable connection. We understand their problem and work to provide a better solution. Let’s learn how to connect Canon printer to computer over wired and wireless connections. for more information go to <a href="https://github.com/ijstartkannon/ijstartkanon/">ij.start.canon</a>.
 
 After your printer is turned on, you can connect it to devices like a computer or laptop. When your device is ready for the configuration, connect the double-edged end of the power cable to the nearest outlet. But before connecting the printer to a device, you need to unbox your printer and assemble all the parts as given in the manual.
